@@ -1,7 +1,7 @@
 ---
-title: Keynotes announced and paper submission deadline for American Modelica Conference moved to Mai 23!
-date: 2024-04-26
-redirect_url: /events/american2024/
+title: Call for paper for 16th International Modelica and FMI Conference 2025 in Lucerne
+date: 2025-01-08
+redirect_url: /events/modelica2025/call2025
 ---
 
-See [https://modelica.org/events/american2024/](/events/american2024/) for more information.
+Please take a look at the [detailed conference announcement](/events/modelica2025/call2025/). 
